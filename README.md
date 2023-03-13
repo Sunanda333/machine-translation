@@ -1,6 +1,6 @@
 
 # machine-translation
-Trained a good hand-written-digit recognition classifier for the noisy images.
+Built a model to translate the texts in the "Input Language" to texts in the "Output Language".
 
 ## Set-up:
 ### Ubuntu/MacOS
